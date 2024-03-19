@@ -1,0 +1,109 @@
+[
+    {
+      "id": 0,
+      "title": "Get started with Bootstrap",
+      "description": "Bootstrap is a powerful, feature-packed frontend toolkit. Build anything—from prototype to production—in minutes.",
+      "url": "#introduction"
+    },
+    {
+      "id": 1,
+      "title": "Customize",
+      "description": "Learn how to theme, customize, and extend Bootstrap with Sass, a boatload of global options, an expansive color system, and more.",
+      "url": "page-1#customize"
+    },
+    {
+      "id": 2,
+      "title": "Overview",
+      "description": "There are multiple ways to customize Bootstrap. Your best path can depend on your project, the complexity of your build tools, the version of Bootstrap you’re using, browser support, and more.",
+      "url": "page-1/page-1-1#overview"
+    },
+    {
+      "id": 3,
+      "title": "CSPs and embedded SVGs",
+      "description": "Several Bootstrap components include embedded SVGs in our CSS to style components consistently and easily across browsers and devices. For organizations with more strict CSP configurations, we’ve documented all instances of our embedded SVGs (all of which are applied via background-image) so you can more thoroughly review your options.",
+      "url": "page-1/page-1-1#csps-and-embedded-svgs"
+    },
+    {
+      "id": 4,
+      "title": "Sass",
+      "description": "Utilize our source Sass files to take advantage of variables, maps, mixins, and functions to help you build faster and customize your project.",
+      "url": "page-1/page-1-2#sass"
+    },
+    {
+      "id": 5,
+      "title": "File structure",
+      "description": "Utilize our source Sass files to take advantage of variables, maps, mixins, and functions to help you build faster and customize your project.",
+      "url": "page-1/page-1-2#file-structure"
+    },
+    {
+      "id": 6,
+      "title": "Importing",
+      "description": "In your custom.scss, you’ll import Bootstrap’s source Sass files. You have two options: include all of Bootstrap, or pick the parts you need. We encourage the latter, though be aware there are some requirements and dependencies across our components. You also will need to include some JavaScript for our plugins.",
+      "url": "page-1/page-1-2#importing"
+    }
+    ,
+    {
+      "id": 7,
+      "title": "Layout",
+      "description": "Mobile first, responsive design is the goal. Bootstrap’s CSS aims to apply the bare minimum of styles to make a layout work at the smallest breakpoint, and then layers on styles to adjust that design for larger devices. This optimizes your CSS, improves rendering time, and provides a great experience for your visitors.",
+      "url": "page-2#layout"
+    }
+    ,
+    {
+      "id": 8,
+      "title": "Breakpoints",
+      "description": "Breakpoints are customizable widths that determine how your responsive layout behaves across device or viewport sizes in Bootstrap.",
+      "url": "page-2/page-2-1#breakpoints"
+    }
+    ,
+    {
+      "id": 9,
+      "title": "Core concepts",
+      "description": "",
+      "url": "page-2/page-2-1#icore-concepts"
+    }
+    ,
+    {
+      "id": 10,
+      "title": "Containers",
+      "description": "Containers are a fundamental building block of Bootstrap that contain, pad, and align your content within a given device or viewport.",
+      "url": "page-2/page-2-2#containers"
+    },
+    {
+      "id": 11,
+      "title": "How they work",
+      "description": "Containers are the most basic layout element in Bootstrap and are required when using our default grid system. Containers are used to contain, pad, and (sometimes) center the content within them. While containers can be nested, most layouts do not require a nested container.",
+      "url": "page-2/page-2-2#containers-work"
+    }
+    ,
+    {
+      "id": 12,
+      "title": "Responsive containers",
+      "description": "Responsive containers allow you to specify a class that is 100% wide until the specified breakpoint is reached, after which we apply max-widths for each of the higher breakpoints. For example, .container-sm is 100% wide to start until the sm breakpoint is reached, where it will scale up with md, lg, xl, and xxl.",
+      "url": "page-2/page-2-2#containers-responsive"
+    },
+    {
+      "id": 13,
+      "title": "Grid system",
+      "description": "Use our powerful mobile-first flexbox grid to build layouts of all shapes and sizes thanks to a twelve column system, six default responsive tiers, Sass variables and mixins, and dozens of predefined classes.",
+      "url": "page-2/page-2-3#grid"
+    },
+    {
+      "id": 14,
+      "title": "Example",
+      "description": "Bootstrap’s grid system uses a series of containers, rows, and columns to layout and align content. It’s built with flexbox and is fully responsive. Below is an example and an in-depth explanation for how the grid system comes together.",
+      "url": "page-2/page-2-3#grid-example"
+    },
+    {
+      "id": 15,
+      "title": "How it works",
+      "description": "Breaking it down, here’s how the grid system comes together:",
+      "url": "page-2/page-2-3#grid-works"
+    },
+    {
+      "id": 16,
+      "title": "Grid options",
+      "description": "Bootstrap’s grid system can adapt across all six default breakpoints, and any breakpoints you customize. The six default grid tiers are as follows:",
+      "url": "page-2/page-2-3#grid-options"
+    }
+]

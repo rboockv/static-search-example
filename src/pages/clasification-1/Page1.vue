@@ -1,7 +1,7 @@
 <template>
   <q-page class="flex column q-ml-xl">
-    <h2>Clasificación 1</h2>
-    <p>descripcion de ejemplo - tema 1</p>
+    <h2 id="customize">Customize</h2>
+    <p>Learn how to theme, customize, and extend Bootstrap with Sass, a boatload of global options, an expansive color system, and more.</p>
   </q-page>
 </template>
 
